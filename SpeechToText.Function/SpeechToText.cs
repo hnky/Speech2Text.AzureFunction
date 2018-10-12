@@ -1,7 +1,7 @@
 using System;
 using System.Configuration;
 using System.IO;
-using System.CodeDom
+using System.CodeDom;
 using System.Linq;
 using Microsoft.Azure.WebJobs;
 using Microsoft.Azure.WebJobs.Host;
